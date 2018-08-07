@@ -1,0 +1,3 @@
+org/openmrs/module/graphql/extension/html/AdminList.class
+org/openmrs/module/graphql/web/controller/GraphqlController.class
+org/openmrs/module/graphql/fragment/controller/UsersFragmentController.class

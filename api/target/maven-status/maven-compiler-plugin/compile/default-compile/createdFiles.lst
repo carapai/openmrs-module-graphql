@@ -1,0 +1,6 @@
+org/openmrs/module/graphql/GraphqlConfig.class
+org/openmrs/module/graphql/api/impl/GraphqlServiceImpl.class
+org/openmrs/module/graphql/api/GraphqlService.class
+org/openmrs/module/graphql/Item.class
+org/openmrs/module/graphql/GraphqlActivator.class
+org/openmrs/module/graphql/api/dao/GraphqlDao.class
